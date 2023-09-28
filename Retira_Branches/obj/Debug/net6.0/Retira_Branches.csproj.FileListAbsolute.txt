@@ -1,0 +1,15 @@
+C:\Users\Meta3\Downloads\Projeto01\Retira_Branches\Retira_Branches\bin\Debug\net6.0\Retira_Branches.exe
+C:\Users\Meta3\Downloads\Projeto01\Retira_Branches\Retira_Branches\bin\Debug\net6.0\Retira_Branches.deps.json
+C:\Users\Meta3\Downloads\Projeto01\Retira_Branches\Retira_Branches\bin\Debug\net6.0\Retira_Branches.runtimeconfig.json
+C:\Users\Meta3\Downloads\Projeto01\Retira_Branches\Retira_Branches\bin\Debug\net6.0\Retira_Branches.dll
+C:\Users\Meta3\Downloads\Projeto01\Retira_Branches\Retira_Branches\bin\Debug\net6.0\Retira_Branches.pdb
+C:\Users\Meta3\Downloads\Projeto01\Retira_Branches\Retira_Branches\obj\Debug\net6.0\Retira_Branches.csproj.AssemblyReference.cache
+C:\Users\Meta3\Downloads\Projeto01\Retira_Branches\Retira_Branches\obj\Debug\net6.0\Retira_Branches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meta3\Downloads\Projeto01\Retira_Branches\Retira_Branches\obj\Debug\net6.0\Retira_Branches.AssemblyInfoInputs.cache
+C:\Users\Meta3\Downloads\Projeto01\Retira_Branches\Retira_Branches\obj\Debug\net6.0\Retira_Branches.AssemblyInfo.cs
+C:\Users\Meta3\Downloads\Projeto01\Retira_Branches\Retira_Branches\obj\Debug\net6.0\Retira_Branches.csproj.CoreCompileInputs.cache
+C:\Users\Meta3\Downloads\Projeto01\Retira_Branches\Retira_Branches\obj\Debug\net6.0\Retira_Branches.dll
+C:\Users\Meta3\Downloads\Projeto01\Retira_Branches\Retira_Branches\obj\Debug\net6.0\refint\Retira_Branches.dll
+C:\Users\Meta3\Downloads\Projeto01\Retira_Branches\Retira_Branches\obj\Debug\net6.0\Retira_Branches.pdb
+C:\Users\Meta3\Downloads\Projeto01\Retira_Branches\Retira_Branches\obj\Debug\net6.0\Retira_Branches.genruntimeconfig.cache
+C:\Users\Meta3\Downloads\Projeto01\Retira_Branches\Retira_Branches\obj\Debug\net6.0\ref\Retira_Branches.dll
